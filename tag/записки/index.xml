@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Demo</description>
+    <title>записки | Academic</title>
+    <link>https://example.com/tag/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8/</link>
+      <atom:link href="https://example.com/tag/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>записки</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <title>записки</title>
+      <link>https://example.com/tag/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8/</link>
     </image>
     
     <item>
